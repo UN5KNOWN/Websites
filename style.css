@@ -52,6 +52,7 @@ body {
   color: var(--main-color);
   cursor: pointer;
   animation: ligh-me-up 1.5s ease-in-out infinite;
+  text-decoration: none;
 }
 
 @keyframes ligh-me-up {
